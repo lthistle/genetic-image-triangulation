@@ -10,6 +10,8 @@ numpy = "*"
 mahotas = "*"
 scipy = "*"
 matplotlib = "*"
+pandas = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.6"

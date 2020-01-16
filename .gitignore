@@ -1,4 +1,2 @@
 .vscode
-*.png
-logs/
-images/
+results/
