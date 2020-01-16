@@ -1,4 +1,4 @@
-# genetic-image-triangulation
+# Genetic Image Triangulation
 
 ### About
 This is a genetic algorithm that tries to optimize the locations of points such that their Delaunay triangulation most closely resembles a source image.
